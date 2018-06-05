@@ -30,9 +30,16 @@
 退出后再运行
 	docker exec -it new-ng2-app  ng serve --host=0.0.0.0
 
+	docker exec -it new-ng2-app /bin/bash
+
+	yarn add @angular/material @angular/cdk
 	
-### 安装angular-cli
-	https://github.com/angular/angular-cli
+	yarn add @angular/animations
+	
+	yarn add hammerjs
+	
+
+https://github.com/angular/material2
 	
 	
 
